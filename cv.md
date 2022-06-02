@@ -28,3 +28,12 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result ); 
 ```
+## Education and courses
+* __University:__ Belarusian-Russian University
+* __Courses:__ 
+    - CS50 video course
+    - Yandex Praktikum  (Web developer)
+    - RS SCHOOL (Front-end/JavaScript)
+## English
+
+__A2__

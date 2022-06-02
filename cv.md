@@ -7,3 +7,24 @@
 * __Discord:__ natastas #3392
 * __Github:__ https://github.com/natastas
 * __Location:__ Krasnodar, Russian Federation
+## About myself
+
+I'm taking a course on Front-end/JavaScript in RS SCHOOL. 
+## Skills
+
+* HTML
+* CSS
+* JavaScript
+* WebPack
+* Figma
+* Git
+## Code Example
+
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result ); 
+```

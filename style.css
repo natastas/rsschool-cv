@@ -2,7 +2,7 @@
 @import url(./assets/fonts/fonts.css);
 @import url(./blocks/body.css);
 @import url(./blocks/page.css);
-@import url(./blocks/page.css);
+@import url(./blocks/container/container.css);
 @import url(./blocks/header/header.css);
 @import url(./blocks/navigation/navigation.css);
 @import url(./blocks/navigation/__list/navigation__list.css);
@@ -18,3 +18,10 @@
 @import url(./blocks/education/education.css);
 @import url(./blocks/education/__paragraph/education__paragraph.css);
 @import url(./blocks/education/__title/education__title.css);
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__image/footer__image.css);
+@import url(./blocks/footer/__link/footer__link.css);
+@import url(./blocks/footer/__paragraph/footer__paragraph.css);
+@import url(./blocks/footer/__navigation/footer__navigation.css);
+@import url(./blocks/footer/__image/_git/footer__image_git.css);
+@import url(./blocks/footer/__container/footer__container.css)

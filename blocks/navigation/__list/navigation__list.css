@@ -1,0 +1,12 @@
+.navigation__list {
+    height: 40px;
+    display: list-item;
+    transition: all 0.3s ease 0s;
+    text-decoration: underline;
+    padding-top: 10px;
+}
+
+.navigation__list:hover {
+    background-color: #f3bd0a;
+    text-decoration: none;
+}

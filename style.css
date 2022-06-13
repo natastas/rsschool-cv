@@ -34,6 +34,12 @@
 @import url(./blocks/skills/skills.css);
 @import url(./blocks/skills/__list/skills__list.css);
 @import url(./blocks/skills/__title/skills__title.css);
+@import url(./blocks/code/code.css);
+@import url(./blocks/code/__paragraph/code__paragraph.css);
+@import url(./blocks/code/__title/code__title.css);
 @import url(./blocks/strengths/strengths.css);
 @import url(./blocks/strengths/__list/strengths__list.css);
 @import url(./blocks/strengths/__title/strengths__title.css);
+@import url(./blocks/projects/projects.css);
+@import url(./blocks/projects/__title/projects__title.css);
+@import url(./blocks/projects/__paragraph/projects__paragraph.css);

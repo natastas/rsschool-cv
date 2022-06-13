@@ -15,3 +15,6 @@
 @import url(./blocks/contacts/__link/contacts__link.css);
 @import url(./blocks/contacts/__paragraph/contacts__paragraph.css);
 @import url(./blocks/contacts/__title/contacts__title.css);
+@import url(./blocks/education/education.css);
+@import url(./blocks/education/__paragraph/education__paragraph.css);
+@import url(./blocks/education/__title/education__title.css);

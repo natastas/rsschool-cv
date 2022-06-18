@@ -1,11 +1,11 @@
 .education__title {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(131, 224, 209, 0.521);
     position: relative;
     margin: 0;
-    margin-bottom: 36px;
-    padding-left: 60px;
+    margin-bottom: 35px;
+    padding-left: 55px;
     font-size: 24px;
-    line-height: 36px;
+    line-height: 35px;
     font-weight: 600;
 }
 
@@ -15,6 +15,6 @@
     left: 0;
     top: 0;
     width: 20px;
-    height: 36px;
-    background-color: #f2c100;
+    height: 35px;
+    background-color: #dfca13;
 }
